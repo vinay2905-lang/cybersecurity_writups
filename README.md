@@ -8,7 +8,8 @@ A collection of cybersecurity challenge writeups from various platforms.
 cybersecurity-writeups/
 ├── README.md
 └── HTB/
-    └── HTB_writeup(Dancing).md
+    ├── HTB_writeup(Dancing).md
+    └── HTB_writeup(Redeemer).md
 ```
 
 ## 🏴 Hack The Box (HTB)
@@ -16,6 +17,7 @@ cybersecurity-writeups/
 | Challenge | Difficulty | Topic |
 |-----------|-----------|-------|
 | [Dancing](HTB/HTB_writeup(Dancing).md) | Easy | SMB Enumeration |
+| [Redeemer](HTB/HTB_writeup(Redeemer).md) | Easy | Redis Enumeration |
 
 ## 📝 About
 
