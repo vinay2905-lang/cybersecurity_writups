@@ -1,0 +1,9 @@
+# Word temp files
+~$*
+
+# Word documents (only tracking markdown)
+*.docx
+
+# OS files
+Thumbs.db
+.DS_Store
