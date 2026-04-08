@@ -7,9 +7,11 @@ A collection of cybersecurity challenge writeups from various platforms.
 ```
 cybersecurity-writeups/
 ├── README.md
-└── HTB/
-    ├── HTB_writeup(Dancing).md
-    └── HTB_writeup(Redeemer).md
+├── HTB/
+│   ├── HTB_writeup(Dancing).md
+│   └── HTB_writeup(Redeemer).md
+└── PS_LABS/
+    └── username-enumeration.md
 ```
 
 ## 🏴 Hack The Box (HTB)
@@ -18,6 +20,12 @@ cybersecurity-writeups/
 |-----------|-----------|-------|
 | [Dancing](HTB/HTB_writeup(Dancing).md) | Easy | SMB Enumeration |
 | [Redeemer](HTB/HTB_writeup(Redeemer).md) | Easy | Redis Enumeration |
+
+## 🏆 PortSwigger (PS) Labs
+
+| Lab Name | Topic |
+|----------|-------|
+| [Username Enumeration via Different Responses](PS_LABS/username-enumeration.md) | Authentication |
 
 ## 📝 About
 
