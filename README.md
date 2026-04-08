@@ -11,6 +11,7 @@ cybersecurity-writeups/
 │   ├── HTB_writeup(Dancing).md
 │   └── HTB_writeup(Redeemer).md
 └── PS_LABS/
+    ├── 2fa-bypass.md
     └── username-enumeration.md
 ```
 
