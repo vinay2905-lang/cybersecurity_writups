@@ -26,6 +26,7 @@ cybersecurity-writeups/
 | Lab Name | Topic |
 |----------|-------|
 | [Username Enumeration via Different Responses](PS_LABS/username-enumeration.md) | Authentication |
+| [2FA Bypass via Direct Access](PS_LABS/2fa-bypass.md) | 2FA Bypass |
 
 ## 📝 About
 
