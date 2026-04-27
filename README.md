@@ -19,6 +19,9 @@ cybersecurity-writeups/
     ├── portswigger-brute-force-bypass.md
     ├── portswigger-bruteforce-logic-flaw.md
     ├── portswigger-password-reset-flaw.md
+    ├── portswigger-sqli-db-version-mysql.md
+    ├── portswigger-sqli-db-version-oracle.md
+    ├── portswigger-sqli-list-db-contents.md
     ├── portswigger-sqli-where-clause.md
     └── portswigger-username-enumeration.md
 ```
@@ -38,6 +41,9 @@ cybersecurity-writeups/
 | Lab Name | Topic |
 |----------|-------|
 | [SQL Injection in WHERE Clause](PS_LABS/portswigger-sqli-where-clause.md) | SQL Injection |
+| [Database Version (MySQL & MSSQL)](PS_LABS/portswigger-sqli-db-version-mysql.md) | SQL Injection |
+| [Database Version (Oracle)](PS_LABS/portswigger-sqli-db-version-oracle.md) | SQL Injection |
+| [Listing Database Contents](PS_LABS/portswigger-sqli-list-db-contents.md) | SQL Injection |
 | [Username Enumeration via Different Responses](PS_LABS/portswigger-username-enumeration.md) | Authentication |
 | [Broken Brute-Force Protection](PS_LABS/portswigger-brute-force-bypass.md) | Authentication |
 | [Brute-Force Protection Logic Flaw](PS_LABS/portswigger-bruteforce-logic-flaw.md) | Authentication |
